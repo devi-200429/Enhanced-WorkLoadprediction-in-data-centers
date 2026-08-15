@@ -1,12 +1,12 @@
-# 🚀 Enhanced Workload Prediction in Data Centers
+ Enhanced Workload Prediction in Data Centers
 
-## 📌 Project Overview
+ Project Overview
 
 The Enhanced Workload Prediction in Data Centers project is a machine learning and deep learning-based system designed to predict future workload in data center environments.
 
 Accurate workload prediction is important for efficient resource utilization, energy management, load balancing, and reducing operational costs in cloud data centers. The proposed system analyzes historical workload patterns and predicts future workload values using advanced decomposition and deep learning techniques.
 
-## 🎯 Objectives
+ Objectives
 
 - To predict future workloads in data center environments.
 - To improve workload prediction accuracy.
@@ -15,24 +15,23 @@ Accurate workload prediction is important for efficient resource utilization, en
 - To reduce prediction errors using hybrid deep learning techniques.
 - To support efficient data center resource management.
 
-## 📊 Dataset
+ Dataset
 
 The project uses workload data collected from a cloud/data center environment.
 
 The dataset contains historical workload measurements that are processed and used for training and testing the prediction models.
 
-## 🧠 Methodology
+ Methodology
 
 The proposed system combines signal decomposition techniques with deep learning models.
-
-### Data Processing
+ Data Processing
 1. Load the workload dataset.
 2. Clean and preprocess the data.
 3. Handle missing or unwanted values.
 4. Normalize the workload data.
 5. Divide the data into training and testing sets.
 
-### Signal Decomposition
+ Signal Decomposition
 
 The workload time series can be decomposed into different components using:
 
