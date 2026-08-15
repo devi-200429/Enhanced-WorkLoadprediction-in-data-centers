@@ -1,0 +1,9 @@
+task_name,instance_num,job_name,task_type,status,start_time,end_time,plan_mem
+task_ODk2MzU0ODg1MTY5MTExNTUwMg==,1,j_39,6,Terminated,675912,675915,0.05
+task_MTM0ODUxMTY0NjQzMTI1NTc1MQ==,28,j_106,6,Terminated,510707,510749,0.05
+task_LTg0MTUwNTA5Mjg4MDkwNjIzMA==,1,j_214,10,Terminated,407036,407177,0.1
+task_OTg1NjA1OTIxMzA4ODkxNg==,1,j_1892,8,Terminated,232168,232461,0.59
+R2_1,1,j_2,1,Terminated,87076,87086,0.2
+M1,1,j_2,1,Terminated,87076,87083,0.2
+task_Nzg3ODAwNDgzMTAwOTc2NTU0Nw==,1,j_3264,5,Terminated,223026,223144,1.72
+task_LTMzNzAzNDY4MDU3NTk0Njk4MzY=,1,j_3264,5,Terminated,223015,223144,1.72
